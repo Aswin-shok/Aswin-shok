@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aswin-shok
-- 👀 I’m interested in data analysis and bioinformatics
+- 👀 I’m interested in molecular biology and a little inquisitive in data analysis and bioinformatics
 - 🌱 I’m currently learning python and perl
 - 📫 How to reach me aswinashok.33.46@gmail.com
 
